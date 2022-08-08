@@ -114,7 +114,7 @@ Let’s first take a look at what was in the original 2021 resolutions list whic
 
 OsmAnd iOS got 3 major releases with more than <a href="https://github.com/osmandapp/OsmAnd-iOS/milestones?state=closed">200 public features and issues</a> closed on Github.
 
-<a href="https://osmand.net/blog/osmand-ios-3-90-released">3.9</a> * January 30, 2021
+<a href="https://osmand.net/blog/osmand-ios-3-90-released">3.90</a> * January 30, 2021
 
 ![3-9-ios](./3-9-ios.png) 
 
